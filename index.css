@@ -22,9 +22,15 @@ h3{
 #copy{
     margin-left: 440px;
     margin-top: 10px;
-    width: 80px;
+    width: 60px;
 }
 
+.copy {
+    background-color: black;
+    border: 1px solid black;
+    margin-left: 40px;
+
+}
 
 .middle{
     width: 550px;
